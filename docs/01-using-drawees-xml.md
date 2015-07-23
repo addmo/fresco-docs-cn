@@ -65,6 +65,7 @@ Drawees 具有极大的可定制性。
     android:id="@+id/my_image_view"
     android:layout_width="20dp"
     android:layout_height="wrap_content"
+    fresco:viewAspectRatio="1.33"
     <!-- other attributes -->
 ```
 
